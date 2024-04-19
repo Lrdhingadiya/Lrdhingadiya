@@ -11,7 +11,7 @@
 
 ## 💡 Connect with me :
 
-<p align="left"> <a href="https://twitter.com/home" target="blank"><img src="https://img.shields.io/twitter/follow/mehul_variya_?logo=twitter&style=for-the-badge" alt="mehul_variya_" /></a> 
+<p align="left"> <a href="https://twitter.com/LDhingadiya" target="blank"><img src="https://img.shields.io/twitter/follow/mehul_variya_?logo=twitter&style=for-the-badge" alt="mehul_variya_" /></a> 
 <a href="https://linkedin.com/in/mehul-variya"><img src="https://img.shields.io/badge/-Mehul%20Variya-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>&nbsp 
 <a href="mailto:mehul639108@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:mehul639108@gmail.com" />
