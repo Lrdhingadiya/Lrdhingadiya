@@ -11,7 +11,7 @@
 
 ## 💡 Connect with me :
 
-<p align="left"> <a href="https://twitter.com/mehul_variya_" target="blank"><img src="https://img.shields.io/twitter/follow/mehul_variya_?logo=twitter&style=for-the-badge" alt="mehul_variya_" /></a> 
+<p align="left"> <a href="https://twitter.com/home" target="blank"><img src="https://img.shields.io/twitter/follow/mehul_variya_?logo=twitter&style=for-the-badge" alt="mehul_variya_" /></a> 
 <a href="https://linkedin.com/in/mehul-variya"><img src="https://img.shields.io/badge/-Mehul%20Variya-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>&nbsp 
 <a href="mailto:mehul639108@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:mehul639108@gmail.com" />
@@ -24,9 +24,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/MehulVariya](https://github.com/MehulVariya)
 
-- 💬 Ask me about **Kotlin, Java, Android, Dart, Flutter, JavaScript,Node.Js**
+- 💬 Ask me about **PhP,Laravel,Html,css,javascript**
 
-- 📫 How to reach me **mehul639108@gmail.com**
+- 📫 How to reach me **lrdhingadiya@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/mehul-variya/](https://www.linkedin.com/in/mehul-variya/)
 
@@ -48,7 +48,7 @@
 ## 🌐 Languages and Tools :
 <p>
   <a >
-    <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,dart,flutter,js,php,nodejs,express,mongodb,mysql,sqlite,aws,postman,notion,html,css,bootstrap,jquery,c,cpp,py,flask,dotnet,git,github,linux" />
+    <img src="https://skillicons.dev/icons?i=laravel,js,php,nodejs,mongodb,mysql,sqlite,html,css,bootstrap,jquery,c,ajex,py,flask,dotnet" />
   </a>
 </p>
 
