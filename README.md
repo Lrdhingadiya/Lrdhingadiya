@@ -48,7 +48,7 @@
 ## 🌐 Languages and Tools :
 <p>
   <a >
-    <img src="https://skillicons.dev/icons?i=laravel,js,php,nodejs,mongodb,mysql,sqlite,html,css,bootstrap,jquery,c,ajex,py,flask,dotnet" />
+    <img src="https://skillicons.dev/icons?i=laravel,js,php,nodejs,mongodb,mysql,sqlite,html,css,bootstrap,jquery,c,py,flask,dotnet" />
   </a>
 </p>
 
