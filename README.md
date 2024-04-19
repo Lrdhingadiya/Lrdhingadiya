@@ -11,10 +11,10 @@
 
 ## 💡 Connect with me :
 
-<p align="left"> <a href="https://twitter.com/LDhingadiya" target="blank"><img src="https://img.shields.io/twitter/follow/mehul_variya_?logo=twitter&style=for-the-badge" alt="mehul_variya_" /></a> 
-<a href="https://linkedin.com/in/mehul-variya"><img src="https://img.shields.io/badge/-Mehul%20Variya-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>&nbsp 
+<p align="left"> <a href="https://twitter.com/LDhingadiya" target="blank"><img src="https://img.shields.io/twitter/follow/Lalit_Dhingadiya_?logo=twitter&style=for-the-badge" alt="mehul_variya_" /></a> 
+<a href="https://www.linkedin.com/in/lalit-dhingadiya-a48425229/"><img src="https://img.shields.io/badge/-Lalit%20Variya-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>&nbsp 
 <a href="mailto:mehul639108@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:mehul639108@gmail.com" />
+    <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:;lrdhingadiya@gmail.com" />
   </a>
 </p>
 
@@ -22,13 +22,13 @@
 
 - 🌱 I’m currently learning **Everything 🤣**
 
-- 👨‍💻 All of my projects are available at [https://github.com/MehulVariya](https://github.com/MehulVariya)
+- 👨‍💻 All of my projects are available at [https://github.com/MehulVariya](https://github.com/Lrdhingadiya/Lrdhingadiya)
 
 - 💬 Ask me about **PhP,Laravel,Html,css,javascript**
 
 - 📫 How to reach me **lrdhingadiya@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/mehul-variya/](https://www.linkedin.com/in/mehul-variya/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/mehul-variya/](https://www.linkedin.com/in/lalit-dhingadiya-a48425229/)
 
 - ⚡ Fun fact **I love to code**
 
@@ -36,13 +36,13 @@
 <p align="left">
 
 
-<a href="https://twitter.com/mehul_variya_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mehul_variya_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mehul-variya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehul-variya" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/mehul-variya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mehul-variya" height="30" width="40" /></a>
-<a href="https://fb.com/mehul.r.variya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mehul.r.variya" height="30" width="40" /></a>
-<a href="https://instagram.com/mehul_variya_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mehul_variya_" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mehul variya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mehul variya" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mehulvariya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mehulvariya" height="30" width="40" /></a>
+<a href="https://twitter.com/mehul_variya_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lalit_dhingadiya" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mehul-variya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lalit_dhingadiya" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/mehul-variya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="lalit_dhingadiya height="30" width="40" /></a>
+<a href="https://fb.com/mehul.r.variya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lalit_dhingadiya" height="30" width="40" /></a>
+<a href="https://instagram.com/mehul_variya_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lalit_dhingadiya" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/mehul variya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="lalit_dhingadiya" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/mehulvariya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lalit_dhingadiya" height="30" width="40" /></a>
 </p>-->
 
 ## 🌐 Languages and Tools :
@@ -54,8 +54,8 @@
 
 ## ✨GitHub Stats  : 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehulvariya&show_icons=true&locale=en&layout=compact" alt="mehulvariya" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lalitdhingadiya&show_icons=true&locale=en&layout=compact" alt="mehulvariya" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehulvariya&show_icons=true&locale=en" alt="mehulvariya" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lalitdhingadiya&show_icons=true&locale=en" alt="lalitdhingadiya" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehulvariya&" alt="mehulvariya" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lalitdhingadiya&" alt="lalitdhingadiya" /></p>
